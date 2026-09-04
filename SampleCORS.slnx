@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JavascriptClient/JavascriptClient.csproj" />
+  <Project Path="SampleAPI/SampleAPI.csproj" />
+</Solution>
